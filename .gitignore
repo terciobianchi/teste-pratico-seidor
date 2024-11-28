@@ -1,0 +1,15 @@
+# package directories
+node_modules
+jspm_packages
+
+
+# Enviroment file
+# env.yml
+
+# MacOS Files
+.DS_Store
+
+.idea
+package-lock.json
+yarn.lock
+.history
